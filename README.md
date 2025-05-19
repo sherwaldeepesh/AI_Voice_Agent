@@ -8,7 +8,7 @@ This project demonstrates the creation of an AI voice agent using the power of L
 - Language Model (LLM)
 - Text-to-Speech (TTS)
 
-We then optimized the experience by leveraging WebRTC through Livekit to enable low-latency, real-time communication. The result is a conversational AI voice agent capable of understanding and responding to voice inputs in real-time.
+We optimised the experience by leveraging WebRTC through Livekit to enable low-latency, real-time communication. The result is a conversational AI voice agent capable of understanding and responding to voice inputs in real-time.
 
 ## Features
 
@@ -22,7 +22,7 @@ We then optimized the experience by leveraging WebRTC through Livekit to enable 
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/sherwaldeepesh/ai-voice-agent-livekit.git](https://github.com/sherwaldeepesh/AI_Voice_Agent.git)
+   git clone https://github.com/sherwaldeepesh/AI_Voice_Agent.git
    cd AI_Voice_Agent
    ```
 
