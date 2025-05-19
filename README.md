@@ -57,6 +57,3 @@ Special thanks to the open-source and commercial platforms powering this project
 - [Livekit](https://livekit.io/) for real-time audio streaming with WebRTC
 - [WebRTC](https://webrtc.org/) project for enabling peer-to-peer communication
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
