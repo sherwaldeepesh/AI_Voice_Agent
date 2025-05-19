@@ -37,7 +37,6 @@ We then optimized the experience by leveraging WebRTC through Livekit to enable 
    - [Basic AI Voice Agent Notebook](voice_agent.ipynb)  
    - [Livekit WebRTC-Optimized Voice Agent Notebook](optimized_voice_agent.ipynb)  
 
-   > Replace the above `#` with actual notebook links once uploaded.
 
 ## Technologies Used
 
