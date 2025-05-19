@@ -34,8 +34,8 @@ We then optimized the experience by leveraging WebRTC through Livekit to enable 
 
 3. Launch the Jupyter notebooks to explore or run the pipeline:
 
-   - [Basic AI Voice Agent Notebook](#)  
-   - [Livekit WebRTC-Optimized Voice Agent Notebook](#)  
+   - [Basic AI Voice Agent Notebook](voice_agent.ipynb)  
+   - [Livekit WebRTC-Optimized Voice Agent Notebook](optimized_voice_agent.ipynb)  
 
    > Replace the above `#` with actual notebook links once uploaded.
 
