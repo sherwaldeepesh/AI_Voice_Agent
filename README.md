@@ -22,8 +22,8 @@ We then optimized the experience by leveraging WebRTC through Livekit to enable 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-voice-agent-livekit.git
-   cd ai-voice-agent-livekit
+   git clone [https://github.com/sherwaldeepesh/ai-voice-agent-livekit.git](https://github.com/sherwaldeepesh/AI_Voice_Agent.git)
+   cd AI_Voice_Agent
    ```
 
 2. Install the required dependencies:
